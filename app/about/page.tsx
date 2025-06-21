@@ -110,7 +110,7 @@ export default function AboutPage() {
       name: "Kavya Singh",
       course: "Data Science",
       quote:
-        "The hands-on approach and real-world projects prepared me perfectly for the industry. I landed my dream job even before completing the program!",
+        "The hands-on approach and real-world projects prepared me perfectly for the industry. I landed my dream job even before completing the program",
       avatar: "https://img.daisyui.com/images/profile/demo/wonderperson@192.webp",
       rating: 5,
       company: "Accenture",
