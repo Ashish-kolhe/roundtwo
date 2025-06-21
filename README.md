@@ -1,30 +1,30 @@
-# Inlighn Tech Design
+# 🧠 Inlighn Tech – Modern Tech Education Platform
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Live Demo** 👉 [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kolheashish2005-3720s-projects/v0-inlighn-tech-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/0awdeMZ3RlL)
+Inlighn Tech is a sleek and modern educational website that showcases professional tech programs in Full Stack Development, Data Science, and more. Designed with clean layouts, subtle animations, and responsive design, the platform delivers a seamless user experience for learners and educators alike.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 Tech Stack
 
-## Deployment
+- **Framework**: React
+- **Styling**: Tailwind CSS
+- **Routing**: React Router DOM
+- **Animations**: Framer Motion
+- **Icons**: Lucide, Heroicons
+- **UI Prototyping**: [v0.dev](https://v0.dev)
+- **Deployment**: Vercel
 
-Your project is live at:
+---
 
-**[https://vercel.com/kolheashish2005-3720s-projects/v0-inlighn-tech-design](https://vercel.com/kolheashish2005-3720s-projects/v0-inlighn-tech-design)**
+## ✨ Features
 
-## Build your app
+- 🎓 Course Catalog with detailed curriculum & highlights
+- 👩‍🏫 Instructor profiles with bios & social links
+- 💬 Student testimonials with ratings
+- 📦 Component-based structure for scalability
+- 🎨 Smooth UI transitions & animations
+- 📱 Fully responsive across all devices
 
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/0awdeMZ3RlL](https://v0.dev/chat/projects/0awdeMZ3RlL)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
