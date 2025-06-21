@@ -222,7 +222,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors">
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-teal-50 via-white to-emerald-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800">
+      <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-teal-50 via-white to-emerald-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800 pt-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             {/* Left Content */}
@@ -242,7 +242,7 @@ export default function HomePage() {
                 </p>
 
                 {/* Key Benefits */}
-                <div className="flex flex-col sm:flex-row gap-4 mb-8 justify-center lg:justify-start text-sm">
+                <div className="flex sm:flex-row gap-4 mb-8 justify-center lg:justify-start text-sm">
                   <div className="flex items-center space-x-2 text-gray-600 dark:text-gray-300">
                     <CheckCircle className="w-5 h-5 text-teal-600" />
                     <span>95% Placement Rate</span>
@@ -260,12 +260,12 @@ export default function HomePage() {
                 <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
                 <Link href="/programs">
                   <Button
-                    size="lg"
-                    className="bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white px-12 py-6 text-xl rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
+                    size="md"
+                    className="bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white px-8 py-2 text-lg rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
                    
                   >
                     Explore Programs
-                    <ArrowRight className="ml-3 w-6 h-6" />
+                    <ArrowRight className="ml-2 w-6 h-6" />
                   </Button></Link>
                   
                 </div>
@@ -300,8 +300,8 @@ export default function HomePage() {
                           <Users className="w-5 h-5 text-white" />
                         </div>
                         <div>
-                          <div className="text-2xl font-bold text-gray-900 dark:text-white">2500+</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">Students</div>
+                          <div className="text-xl font-bold text-gray-900 dark:text-white">2500+</div>
+                          <div className="text-xs text-gray-600 dark:text-gray-300">Students</div>
                         </div>
                       </div>
                     </div>
@@ -312,8 +312,8 @@ export default function HomePage() {
                           <TrendingUp className="w-5 h-5 text-white" />
                         </div>
                         <div>
-                          <div className="text-2xl font-bold text-gray-900 dark:text-white">95%</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">Placement</div>
+                          <div className="text-xl font-bold text-gray-900 dark:text-white">95%</div>
+                          <div className="text-xs text-gray-600 dark:text-gray-300">Placement</div>
                         </div>
                       </div>
                     </div>
@@ -324,8 +324,8 @@ export default function HomePage() {
                           <Award className="w-5 h-5 text-white" />
                         </div>
                         <div className="text-center">
-                          <div className="text-lg font-bold text-gray-900 dark:text-white">Industry Certified</div>
-                          <div className="text-sm text-gray-600 dark:text-gray-300">Programs</div>
+                          <div className="text-lg font-bold text-gray-900 dark:text-white">Certified</div>
+                          <div className="text-xs text-gray-600 dark:text-gray-300">Programs</div>
                         </div>
                       </div>
                     </div>

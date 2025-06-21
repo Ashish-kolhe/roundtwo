@@ -37,7 +37,7 @@ export function Navbar() {
             <div className="w-8 h-8 bg-gradient-to-r from-teal-600 to-emerald-600 rounded-lg flex items-center justify-center">
               <GitFork className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent font-extrabold">
+            <span className="text-lg bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent font-black">
               INLIGHN TECH
             </span>
           </Link>
