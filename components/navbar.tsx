@@ -84,7 +84,7 @@ export function Navbar() {
             })}
           </div>
 
-          {/* DarkMode Toggle & Mobile Menu Button */}
+          {/* Dark Mode Toggle & Mobile Menu Button */}
           <div className="flex items-center space-x-2">
             <Button
               variant="ghost"

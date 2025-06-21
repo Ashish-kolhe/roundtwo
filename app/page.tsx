@@ -228,7 +228,7 @@ export default function HomePage() {
             {/* Left Content */}
             <div className="text-center lg:text-left">
               <div className="animate-fade-in-up">
-                <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
+                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
                   <span className="text-gray-800 dark:text-gray-200">
                     Transform Your Career With
                   </span>
@@ -236,13 +236,13 @@ export default function HomePage() {
                   <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent font-black">INLIGHN TECH</span>
                 </h1>
 
-                <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+                <p className="text-md sm:text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
                   Join thousands of students who've launched successful tech careers through our comprehensive
                   internship programs
                 </p>
 
                 {/* Key Benefits */}
-                <div className="flex flex-col sm:flex-row gap-4 mb-8 justify-center lg:justify-start">
+                <div className="flex flex-col sm:flex-row gap-4 mb-8 justify-center lg:justify-start text-sm">
                   <div className="flex items-center space-x-2 text-gray-600 dark:text-gray-300">
                     <CheckCircle className="w-5 h-5 text-teal-600" />
                     <span>95% Placement Rate</span>
@@ -368,19 +368,19 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className={`transition-all duration-1000 ${isVisible.internships ? "opacity-100" : "opacity-0"}`}>
-              <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
+              <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-6 leading-tight">
                 We Provide The{" "}
                 <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                   Best Internships
                 </span>
               </h2>
-              <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
+              <p className="text-md text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
                 Our internship programs are designed by industry experts to give you real-world experience and the
                 skills employers are looking for. From Full Stack Development to AI & Machine Learning, we offer
                 comprehensive programs that prepare you for success.
               </p>
 
-              <div className="space-y-4 mb-8">
+              <div className="space-y-4 mb-8 text-sm">
                 <div className="flex items-center space-x-3">
                   <CheckCircle className="w-6 h-6 text-teal-600" />
                   <span className="text-gray-700 dark:text-gray-300">Industry-relevant curriculum</span>
@@ -438,13 +438,13 @@ export default function HomePage() {
           <div
             className={`text-center mb-16 transition-all duration-1000 ${isVisible.features ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
           >
-            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
               Why Choose{" "}
               <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                 Our Programs
               </span>
             </h2>
-            <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
               We provide everything you need to succeed in your tech career journey
             </p>
           </div>
@@ -485,7 +485,7 @@ export default function HomePage() {
           <div
             className={`text-center mb-16 transition-all duration-1000 ${isVisible.about ? "opacity-100" : "opacity-0"}`}
           >
-            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
               About{" "}
               <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                 Inlighn Tech
@@ -498,15 +498,15 @@ export default function HomePage() {
             <div className={`transition-all duration-1000 ${isVisible.about ? "opacity-100" : "opacity-0"}`}>
               <div className="flex items-center mb-6">
                 <div className="w-16 h-16 bg-gradient-to-r from-teal-600 to-emerald-600 rounded-2xl flex items-center justify-center mr-4">
-                  <Target className="w-8 h-8 text-white" />
+                  <Target className="w-6 h-6 text-white" />
                 </div>
-                <h3 className="text-3xl font-bold text-gray-900 dark:text-white">Our Mission</h3>
+                <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Our Mission</h3>
               </div>
-              <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
+              <p className="text-md text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
                 To bridge the gap between academic learning and industry requirements by providing comprehensive,
                 hands-on internship programs that prepare students for successful tech careers.
               </p>
-              <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
+              <p className="text-md text-gray-600 dark:text-gray-300 leading-relaxed">
                 We believe in empowering the next generation of tech professionals with practical skills, real-world
                 experience, and the confidence to excel in their chosen fields.
               </p>
@@ -519,11 +519,11 @@ export default function HomePage() {
             >
               <div className="flex items-center mb-6">
                 <div className="w-16 h-16 bg-gradient-to-r from-emerald-600 to-teal-600 rounded-2xl flex items-center justify-center mr-4">
-                  <Eye className="w-8 h-8 text-white" />
+                  <Eye className="w-6 h-6 text-white" />
                 </div>
-                <h3 className="text-3xl font-bold text-gray-900 dark:text-white">Our Vision</h3>
+                <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Our Vision</h3>
               </div>
-              <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
+              <p className="text-md text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
                 To become the leading platform for tech education and career transformation, creating a world where
                 anyone can access quality tech education and build a successful career in technology.
               </p>
@@ -542,8 +542,8 @@ export default function HomePage() {
           <div
             className={`text-center mb-16 transition-all duration-1000 ${isVisible.stats ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
           >
-            <h2 className="text-4xl sm:text-5xl font-bold text-white mb-4">Our Impact</h2>
-            <p className="text-xl text-teal-100 max-w-3xl mx-auto">
+            <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">Our Impact</h2>
+            <p className="text-lg text-teal-100 max-w-3xl mx-auto">
               Numbers that speak for our commitment to student success
             </p>
           </div>
@@ -601,13 +601,13 @@ export default function HomePage() {
           <div
             className={`text-center mb-16 transition-all duration-1000 ${isVisible.testimonials ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"}`}
           >
-            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
               Student{" "}
               <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                 Success Stories
               </span>
             </h2>
-            <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
               Hear from our graduates who transformed their careers with our programs
             </p>
           </div>

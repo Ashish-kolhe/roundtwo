@@ -86,7 +86,7 @@ export default function ContactPage() {
     {
       question: "Do you provide placement assistance?",
       answer:
-        "Yes, we have a dedicated placement team that works with 200+ hiring partners. We provide resume building, interview preparation, mock interviews, and direct placement opportunities with our partner companies",
+        "Yes, we have a dedicated placement team that works with 200+ hiring partners. We provide resume building, interview preparation, mock interviews, and direct placement opportunities with our partner companies.",
     },
     {
       question: "What is the refund policy?",

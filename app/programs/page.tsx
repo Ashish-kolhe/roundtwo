@@ -256,13 +256,13 @@ export default function ProgramsPage() {
       <section className="pt-20 pb-16 bg-gradient-to-br from-teal-50 via-white to-emerald-50 dark:from-gray-900 dark:via-gray-900 dark:to-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
+            <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6">
               Our{" "}
               <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                 Internship Programs
               </span>
             </h1>
-            <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed">
               Choose from our comprehensive range of tech internship programs designed to transform you into an
               industry-ready professional
             </p>
@@ -503,13 +503,13 @@ export default function ProgramsPage() {
               isVisible["why-choose"] ? "opacity-100" : "opacity-0"
             }`}
           >
-            <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
               Why Choose Our{" "}
               <span className="bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
                 Programs
               </span>
             </h2>
-            <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
+            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
               Our programs are designed with industry experts to ensure you get the most relevant and practical
               education
             </p>
@@ -575,7 +575,7 @@ export default function ProgramsPage() {
       <section className="py-20 bg-gradient-to-r from-teal-600 to-emerald-600">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h3 className="text-3xl sm:text-4xl font-bold text-white mb-6">Ready to Start Your Tech Journey?</h3>
-          <p className="text-xl text-teal-100 mb-8 max-w-2xl mx-auto">
+          <p className="text-lg text-teal-100 mb-8 max-w-2xl mx-auto">
             Join thousands of students who have already transformed their careers with our proven programs
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

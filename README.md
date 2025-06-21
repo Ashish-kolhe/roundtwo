@@ -27,12 +27,11 @@ Inlighn Tech is a modern and responsive educational website built as part of a f
 - 📱 Fully responsive across all devices  
 - ⚙️ Data-driven and component-based architecture  
 
-
 ---
 
 ## 🧪 Getting Started
 
-```bash
+\`\`\`bash
 # Clone the repository
 git clone https://github.com/Ashish-kolhe/roundtwo.git
 cd roundtwo
@@ -42,7 +41,7 @@ npm install
 
 # Start the development server
 npm run dev
-```
+\`\`\`
 
 
 ---
@@ -57,14 +56,12 @@ This project is deployed on **Vercel**.
 
 ---
 
-
 ## 📬 Contact
 
-- **Email**: ashishkolhe2005@gmail.com   
+- **Email**: ashishkolhe2005@gmail.com  
 - **Live Site**: [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
 
 ---
-
 
 
 ## 🙌 Credits

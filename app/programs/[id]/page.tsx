@@ -868,8 +868,8 @@ export default function ProgramDetailPage() {
                 </div>
               </div>
 
-              <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-6">{program.title}</h1>
-              <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">{program.description}</p>
+              <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-6">{program.title}</h1>
+              <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">{program.description}</p>
 
               {/* Quick Stats */}
               <div className="grid grid-cols-2 gap-6 mb-8">
