@@ -1,37 +1,38 @@
-# 🧠 Inlighn Tech – Modern Tech Education Platform
+# 🧠 Inlighn Tech – Frontend Challenge Submission
 
-**Live Demo** 👉 [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
+**Live Demo**: [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
 
-Inlighn Tech is a sleek and modern educational website that showcases professional tech programs in Full Stack Development, Data Science, and more. Designed with clean layouts, subtle animations, and responsive design, the platform delivers a seamless user experience for learners and educators alike.
+Inlighn Tech is a modern and responsive educational website built as part of a frontend challenge. It showcases professional programs in Full Stack Web Development, Data Science, and more. The project emphasizes clean UI, animations, reusability, and mobile-first design using the latest frontend technologies.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Framework**: React
-- **Styling**: Tailwind CSS
-- **Routing**: React Router DOM
-- **Animations**: Framer Motion
-- **Icons**: Lucide, Heroicons
-- **UI Prototyping**: [v0.dev](https://v0.dev)
-- **Deployment**: Vercel
+- **Framework**: React  
+- **Styling**: Tailwind CSS  
+- **Routing**: React Router DOM  
+- **Animations**: Framer Motion  
+- **Icons**: Lucide, Heroicons  
+- **UI Prototyping**: [v0.dev](https://v0.dev)  
+- **Deployment**: Vercel  
 
 ---
 
 ## ✨ Features
 
-- 🎓 Course Catalog with detailed curriculum & highlights
-- 👩‍🏫 Instructor profiles with bios & social links
-- 💬 Student testimonials with ratings
-- 📦 Component-based structure for scalability
-- 🎨 Smooth UI transitions & animations
-- 📱 Fully responsive across all devices
+- 🎓 Dynamic program listing with curriculum and features  
+- 🧑‍🏫 Instructor profiles with social media links  
+- 💬 Student testimonials with ratings  
+- 🎨 Smooth animations and UI transitions  
+- 📱 Fully responsive across all devices  
+- ⚙️ Data-driven and component-based architecture  
+
 
 ---
 
 ## 🧪 Getting Started
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/Ashish-kolhe/roundtwo.git
 cd roundtwo
@@ -41,3 +42,35 @@ npm install
 
 # Start the development server
 npm run dev
+```
+
+
+---
+
+## 🌐 Deployment
+
+This project is deployed on **Vercel**.
+
+**Live URL**: [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
+
+
+
+---
+
+
+## 📬 Contact
+
+- **Email**: ashishkolhe2005@gmail.com   
+- **Live Site**: [https://frontendroundtwo.vercel.app](https://frontendroundtwo.vercel.app)
+
+---
+
+
+
+## 🙌 Credits
+
+- [Unsplash](https://unsplash.com) – Free stock photos  
+- [Pexels](https://pexels.com) – Free tech illustrations  
+- [Lucide Icons](https://lucide.dev) – Icon library  
+- [v0.dev](https://v0.dev) – AI-generated UI scaffolding  
+- [Framer Motion](https://www.framer.com/motion/) – React animations
