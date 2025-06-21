@@ -28,3 +28,16 @@ Inlighn Tech is a sleek and modern educational website that showcases profession
 - 📱 Fully responsive across all devices
 
 ---
+
+## 🧪 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Ashish-kolhe/roundtwo.git
+cd roundtwo
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
