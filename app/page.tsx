@@ -261,7 +261,7 @@ export default function HomePage() {
                 <Link href="/programs">
                   <Button
                     size="md"
-                    className="bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white px-8 py-2 text-lg rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
+                    className="bg-gradient-to-r from-teal-600 to-emerald-600 hover:from-teal-700 hover:to-emerald-700 text-white px-12 py-2 text-md font-bold rounded-full shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300 my-4"
                    
                   >
                     Explore Programs
